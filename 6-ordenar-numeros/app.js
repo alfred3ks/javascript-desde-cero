@@ -1,4 +1,6 @@
 /*
+JavaScript desde cero.
+Video - 6: Condicional if.
 Ejercicio #1
 
 Ordena 3 números de mayor a menor introducidos por un usuario:

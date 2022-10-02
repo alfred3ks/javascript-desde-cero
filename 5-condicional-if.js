@@ -1,6 +1,6 @@
 /*
 JavaScript desde cero.
-Video - 5: Condicionales.
+Video - 5: Condicional if.
 
 Flujo de un programa:
 El flujo de un programa siempre será de arriba hacia abajo.
