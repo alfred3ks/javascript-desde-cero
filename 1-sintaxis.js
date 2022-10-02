@@ -1,7 +1,5 @@
 /*
-
-Video 1:
-Sintaxis - variables, constantes, sus ambitos, tipos de datos:
+Video 1: Sintaxis - variables, constantes, sus ambitos, tipos de datos:
 
 Sintaxis:
 - Es case sensitive:
@@ -70,6 +68,7 @@ Podemos usar comillas simples o dobles.
 Ahora vamos a ver el codigo:
 
 */
+
 // Variables: numeros:
 let numero = 22;
 numero = 23;

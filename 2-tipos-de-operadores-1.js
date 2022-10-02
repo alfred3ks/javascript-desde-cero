@@ -1,8 +1,7 @@
 /*
+JavaScript desde cero.
+Video 2:Tipos de operadores de JS:
 
-Video 2:
-
-Tipos de operadores de JS:
 Javascript tiene varios tipos de operadores:
 - Operadores de asignación
 - Operadores de comparación

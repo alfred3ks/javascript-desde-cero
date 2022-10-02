@@ -1,6 +1,6 @@
 /*
-Video 3:
-Los String:
+JavaScript desde cero.
+Video 3: Los String:
 
 Vamos a ver como trabajar con cadenas de texto, lo que se llaman los String, existen muchos metodos para trabajar con cadenas.
 

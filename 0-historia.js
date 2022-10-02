@@ -1,7 +1,6 @@
 /*
-
+JavaScript desde cero.
 Video - 0:
-
 La historia de JS:
 
 - JS es un lenguaje de programacion,
@@ -33,7 +32,6 @@ Frameworks:
 - VueJS
 
 Como escribir el codigo de JS:
-
 Se necesita un editor de texto, no un procesador de texto, por lo que word no sirve.
 
 Existen varias alternativas:
@@ -47,6 +45,5 @@ Diversos editores de codigo:
 - Brackets,
 - Notepad++,
 - Bloc de notas, etc.
-
 
 */

@@ -1,7 +1,6 @@
 /*
 JavaScript desde cero.
-Video - 4:
-objeto Math()
+Video - 4: Objeto Math().
 
 - Es un objeto que se utiliza para hacer operaciones matemticas mas complejas.
 - Al ser un objeto tambien utiliza la nomenclatura del punto. Es un objeto predefinido del lenguaje.
@@ -135,7 +134,6 @@ console.log(Math.PI);
 // Vemos los metodos:
 let entero = -5;
 let decimal = 1.4
-
 
 // Math.abs(x): Devuelve el valor absoluto de x
 console.log(Math.abs(entero)); // 5
