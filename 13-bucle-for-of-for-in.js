@@ -1,6 +1,6 @@
 /*
 JavaScript desde cero.
-Video - 12: Bucle for of / for in.
+Video - 13: Bucle for of / for in.
 
 Estos dos bucles nuevos han llegado con ES06. Para recorrer arrays
 Simplifica el bucle for tradicional sin tener que darle un numero de vueltas ni realizar un incremento.

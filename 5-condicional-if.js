@@ -49,9 +49,7 @@ Compuesta:
     else code...
 
 A codear...
-
 */
-
 // Simples:
 let num1 = 5;
 if (num1 > 0) {
@@ -128,4 +126,3 @@ if (palabra.length > numeroLetras) {
 } else if (palabra.length < numeroLetras) {
   console.log(`El String -> ${palabra}: tiene menos de ${numeroLetras} letras.`);
 }
-
