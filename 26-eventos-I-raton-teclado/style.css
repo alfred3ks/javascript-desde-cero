@@ -1,0 +1,20 @@
+a,
+button {
+  display: block;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  color: wheat;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.primary {
+  background-color: crimson;
+}
+
+.secondary {
+  background-color: green;
+}
