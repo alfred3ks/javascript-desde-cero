@@ -58,7 +58,6 @@ const showAllBooks = () => {
 }
 
 // showAllBooks();
-
 const showAuthors = () => {
   let authors = [];
   for (const book of books) {
@@ -69,7 +68,6 @@ const showAuthors = () => {
 }
 
 // showAuthors();
-
 const showGender = () => {
   const gender = prompt('Introduce al genero a buscar:');
   for (const book of books) {
@@ -81,4 +79,3 @@ const showGender = () => {
 }
 
 showGender();
-
