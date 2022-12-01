@@ -1,3 +1,4 @@
+
 /*
 JavaScript desde cero.
 Video - 18: Las funciones en JavaScript.
@@ -46,11 +47,23 @@ function saludar() {
 }
 saludar();
 
+/**
+ *
+ * @param {*} user
+ * @returns
+ */
 const saludarUser = (user) => console.log(`Hola ${user}`);
 saludarUser('Albert');
 saludarUser('Marcos');
 saludarUser('Laika');
 
+/**
+ *
+ * Esta funcion realiza la resta de dos números
+ * @param {Number}  número Debemos introducir un numero
+ * @param {Number}  número Debemos introducir un numero
+ * @returns {Number}  numero Retorna un numero
+ */
 const resta = (num1, num2) => {
   if (num1 > num2) {
     return num1 - num2;

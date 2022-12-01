@@ -43,6 +43,7 @@ No se puede recorrer con un for of porque nos dice que el objeto no es iterable 
 
 */
 
+/* Creating a constant variable called person and assigning it an object. */
 const person = {
   name: 'Juan',
   age: 26,

@@ -47,6 +47,7 @@ for (const day of days) {
 }
 
 // Lo ideal es usar fragment:
+/* Creating a fragment of the DOM and then appending it to the DOM. */
 const fragment = document.createDocumentFragment();
 for (const day of days) {
   const itemList = document.createElement('li');
@@ -58,6 +59,7 @@ for (const day of days) {
 daysList.appendChild(fragment);
 
 // Vamos a rellenar el select:
+/* Creating a fragment of the DOM and then appending it to the DOM. */
 const fragmentSelect = document.createDocumentFragment();
 for (const day of days) {
   const selectItem = document.createElement('option');
